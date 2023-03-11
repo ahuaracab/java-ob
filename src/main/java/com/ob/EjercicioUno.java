@@ -1,6 +1,6 @@
 package com.ob;
 
-public class Main {
+public class EjercicioUno {
     public static void main(String[] args) {
         int x = 1;
         long y = 2454;
