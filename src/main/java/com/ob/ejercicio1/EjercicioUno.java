@@ -1,4 +1,4 @@
-package com.ob;
+package com.ob.ejercicio1;
 
 public class EjercicioUno {
     public static void main(String[] args) {

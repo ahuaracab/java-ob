@@ -1,4 +1,4 @@
-package com.ob;
+package com.ob.ejercicio2;
 
 public class EjercicioDos {
     private static final double IVA = 0.21;
